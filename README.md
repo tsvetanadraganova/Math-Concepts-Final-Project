@@ -210,7 +210,6 @@ No Machine Learning frameworks are required.
 
 ```text
 Math-Concepts-Final-Project/
-├── data/
 ├── images/
 │   ├── example_delivery_route.png
 │   ├── random_delivery_route.png
@@ -223,7 +222,7 @@ Math-Concepts-Final-Project/
 └── README.md
 ```
 
-The `data/` directory is reserved for optional project data. The implemented example uses coordinates defined directly in the Notebook and does not require an external dataset.
+The project uses example coordinates defined directly in the Jupyter Notebook and does not require an external dataset.
 
 ## How to Run the Project
 
